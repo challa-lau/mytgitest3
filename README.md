@@ -1,2 +1,2 @@
 # mytgitest3
-hello
+hello,this is the git test.
